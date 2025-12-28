@@ -90,7 +90,7 @@ The controller detects hit/miss conditions, performs refill from memory, and evi
 
 ---
 
-## 📸 Simulation Outputs (Examples)
+## 📸 Simulation Outputs
 
 ```
 docs/Block Diagram.png   # Block Diagram
@@ -102,6 +102,7 @@ docs/Waveform.png  # Waveform
 
 ## 📬 Contact
 
+```
 **Vasantha Vidhya**  
 📧 vasanthavidhya@email.com  
 🔗 https://www.linkedin.com/in/yourprofile
