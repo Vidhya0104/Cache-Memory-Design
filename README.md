@@ -93,10 +93,20 @@ The controller detects hit/miss conditions, performs refill from memory, and evi
 ## 📸 Simulation Outputs
 
 ```
-docs/Block Diagram.png   # Block Diagram
-docs/RTL.png   # RTL
-docs/State Diagram.png # State transition diagram
-docs/Waveform.png  # Waveform
+## 📊 Block Diagram
+![Block Diagram](docs/block%20diagram.png)
+
+## 🔧 RTL View
+![RTL](docs/RTL.png)
+
+## 🔁 State Machine
+![State Diagram](docs/State%20Diagram.png)
+
+## 📈 Waveform Output
+![Waveform](docs/Waveform.png)
+
+## 🖥️ Transcript Output
+![Transcript](docs/Transcript%20output.png)
 
 ---
 
