@@ -6,9 +6,9 @@ This repository contains the Verilog implementation of a **16KB, 2-way set assoc
 
 ## 📑 Table of Contents
 
-1. [Description](#description)  
+1. [Description](#-description)  
 2. [Key Concepts Learnt](#-key-concepts-learnt)  
-3. [Specifications](#%EF%B8%8F-specifications)  
+3. [Cache Specifications](#-Cache-specifications)  
 4. [Main Memory Specification](#-main-memory-specification)  
 5. [Address Breakdown](#-address-breakdown)  
 7. [Simulation Outputs](#-simulation-outputs)    
