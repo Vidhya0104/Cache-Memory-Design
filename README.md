@@ -1,4 +1,4 @@
-# 🧠 Verilog Implementation of 16KB 2-Way Set Associative Cache
+# Verilog Implementation of 16KB 2-Way Set Associative Cache
 
 This repository contains the Verilog implementation of a **16KB, 2-way set associative cache memory system**. The cache is designed for a 32-bit CPU address space with a **64-byte block size**, low-level **write-back** and **write-allocate** mechanisms, **LRU eviction**, and a **Mealy FSM controller**. The project is validated in **ModelSim (Quartus)** and demonstrates fundamental memory hierarchy concepts used in modern processors.
 
@@ -92,19 +92,19 @@ The controller detects hit/miss conditions, performs refill from memory, and evi
 
 ## 📸 Simulation Outputs
 
-## 📊 Block Diagram
+## Block Diagram
 ![Block Diagram](docs/block%20diagram.png)
 
-## 🔧 RTL View
+## RTL View
 ![RTL](docs/RTL.png)
 
-## 🔁 State Machine
+## State Machine
 ![State Diagram](docs/State%20Diagram.png)
 
-## 📈 Waveform Output
+## Waveform Output
 ![Waveform](docs/Waveform.png)
 
-## 🖥️ Transcript Output
+## Transcript Output
 ![Transcript](docs/Transcript%20output.png)
 
 
