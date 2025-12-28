@@ -100,12 +100,12 @@ docs/Waveform.png  # Waveform
 
 ---
 
+```
 ## 📬 Contact
 
-```
 **Vasantha Vidhya**  
-📧 vasanthavidhya@email.com  
-🔗 https://www.linkedin.com/in/yourprofile
+📧 vasanthavidhyapv@email.com  
+🔗 https://www.linkedin.com/in/vasantha-vidhya-3b53aa25a/
 
 ---
 
