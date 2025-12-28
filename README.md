@@ -92,7 +92,6 @@ The controller detects hit/miss conditions, performs refill from memory, and evi
 
 ## 📸 Simulation Outputs
 
-```
 ## 📊 Block Diagram
 ![Block Diagram](docs/block%20diagram.png)
 
@@ -108,16 +107,13 @@ The controller detects hit/miss conditions, performs refill from memory, and evi
 ## 🖥️ Transcript Output
 ![Transcript](docs/Transcript%20output.png)
 
----
 
-```
 ## 📬 Contact
 
 **Vasantha Vidhya**  
 📧 vasanthavidhyapv@email.com  
 🔗 https://www.linkedin.com/in/vasantha-vidhya-3b53aa25a/
 
----
 
 > *Building this project strengthened my understanding of hardware memory hierarchy and cycle-accurate caching behavior. Designing the controller, handling address mapping, and observing waveform behavior taught me system-level thinking essential for VLSI design.* 🚀
 
